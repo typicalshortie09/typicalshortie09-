@@ -158,6 +158,7 @@
     rotateBanner('banner1');
     rotateBanner('banner2');
   </script>
+  <meta name="google-adsense-account" content="ca-pub-6098277355901807">
 
 </body>
 </html>
