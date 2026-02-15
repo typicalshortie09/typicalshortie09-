@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6098277355901807"
+     crossorigin="anonymous">
+     </script>
+  <meta name="google-adsense-account" content="ca-pub-6098277355901807">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Deals & Hot Offers</title>
